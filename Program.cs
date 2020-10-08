@@ -52,8 +52,7 @@ namespace assign_2
                         Console.WriteLine("the triangle is not valid");
                     }
                 menu();
-                ++a;
-                if (a == 2)
+                  if (a == 2)
                   break;      
             }
             Console.WriteLine("exit...");
